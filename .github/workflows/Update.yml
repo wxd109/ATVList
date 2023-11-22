@@ -16,8 +16,8 @@ on:
 
 env:
   TZ: Asia/Shanghai
-  TELEGRAM_NOTIFICATION: false
-  TELEGRAM_NOTIFICATION_CONTENT: <b>📺 AppleTVライブチャンネルが更新しました！</b>
+  # TELEGRAM_NOTIFICATION: false
+  # TELEGRAM_NOTIFICATION_CONTENT: <b>📺 AppleTVライブチャンネルが更新しました！</b>
   GROUP_NAME_CCTV: 央视
   GROUP_NAME_SATT: 卫视
   GROUP_NAME_CCTVv6: IPv6央视
