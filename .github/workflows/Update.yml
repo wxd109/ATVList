@@ -16,7 +16,7 @@ on:
 
 env:
   TZ: Asia/Shanghai
-  TELEGRAM_NOTIFICATION: false
+  TELEGRAM_NOTIFICATION: true
   TELEGRAM_NOTIFICATION_CONTENT: <b>📺 AppleTV更新！</b>
   GROUP_NAME_CCTV: 央视
   GROUP_NAME_SATT: 卫视
